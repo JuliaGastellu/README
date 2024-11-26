@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-🌟 Sobre mí
-¡Hola! 👋 Soy Julia, una apasionada por el aprendizaje continuo y los retos. Después de haberme dedicado casi toda mi vida al sector de ventas, decidí seguir mi pasión por la tecnología y los datos, y emprendí el emocionante camino hacia la Ciencia de Datos.
+🌟 ¡Hola! 👋 Soy Julia, una apasionada por el aprendizaje continuo y los retos. Después de haberme dedicado casi toda mi vida al sector de ventas, decidí seguir mi pasión por la tecnología y los datos, y emprendí el emocionante camino hacia la Ciencia de Datos.
 
 He dedicado tiempo y esfuerzo a desarrollar mis habilidades en análisis de datos, programación y modelado predictivo, y estoy emocionada de aplicar este conocimiento para resolver problemas del mundo real. Estoy en busca de mi primera oportunidad en el sector IT, donde pueda contribuir con mi experiencia previa en ventas y mis nuevas habilidades en ciencia de datos.
 
