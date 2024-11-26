@@ -6,9 +6,10 @@
 He dedicado tiempo y esfuerzo a desarrollar mis habilidades en análisis de datos, programación y modelado predictivo, y estoy emocionada de aplicar este conocimiento para resolver problemas del mundo real. Estoy en busca de mi primera oportunidad en el sector IT, donde pueda contribuir con mi experiencia previa en ventas y mis nuevas habilidades en ciencia de datos.
 
 🔧 Habilidades:
-Análisis de Datos: Exploración y visualización de datos con Python (Pandas, Matplotlib, Seaborn).
+Análisis de Datos: Exploración y visualización de datos con Python (Pandas, Matplotlib, Seaborn, etc.).
 
-Machine Learning: Creación de modelos predictivos con Scikit-learn.
+Machine Learning: Creación de modelos predictivos con Scikit-learn y otras librerías de python.
+
 Bases de Datos: Manejo de SQL y herramientas relacionadas.
 
 Visualización: Creación de dashboards con herramientas como Streamlit y Power BI.
@@ -16,9 +17,10 @@ Visualización: Creación de dashboards con herramientas como Streamlit y Power 
 Gestión de Proyectos: Experiencia en coordinación y gestión, aplicada a equipos de ventas.
 
 🎯 Lo que busco:
+
 💡 Una oportunidad para integrarme en un equipo de ciencia de datos o análisis en el sector IT. Estoy abierta a aprender, adaptarme y crecer profesionalmente.
 
 📫 Contáctame:
-📧 juliacgastellu@gmail.com
-💼 linkedin.com/in/julia-gastellu
+📧 juliacgastellu@gmail.com                                   
+💼 linkedin.com/in/julia-gastellu                                                
 📞 +54 298 4876766
